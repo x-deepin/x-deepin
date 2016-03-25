@@ -1,0 +1,302 @@
+    "Xorg Version": "",
+    "Xorg Version": "",
+    "Xorg Version": "",
+    "Xorg Version": "1.18.1-1",
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel
+xserver-xorg-video-intel-dbg",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "DevClass": "gfxcard",
+    "Vendor": "pci 0x8086",
+    "Device": "pci 0x0416",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0x06",
+    "Driver": "i915",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/kernel/drivers/gpu/drm/i915/i915.ko",
+    "sha256sum": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Driver Version": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "linux-image-4.4.0-1-amd64",
+    "Score": "11"
+ },
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel
+xserver-xorg-video-intel-dbg",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "DevClass": "gfxcard",
+    "Nvidia Settings": {},
+    "Vendor": "pci 0x10de",
+    "Device": "pci 0x13d8",
+    "SubVendor": "pci 0x",
+    "SubDevice": "pci 0x",
+    "Revision": "0xff",
+    "Driver": "nvidia",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/updates/dkms/nvidia-current.ko",
+    "sha256sum": "acc59c1ebf757ff46364b0210f662fa0909cf1006174c37ca997a786ded32e6c",
+    "Driver Version": "352.79",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "Unknown package",
+    "Score": "11"
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel
+xserver-xorg-video-intel-dbg",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "DevClass": "gfxcard",
+    "Vendor": "pci 0x8086",
+    "Device": "pci 0x0416",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0x06",
+    "Driver": "i915",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/kernel/drivers/gpu/drm/i915/i915.ko",
+    "sha256sum": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Driver Version": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "linux-image-4.4.0-1-amd64",
+    "Score": "22"
+ },
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel
+xserver-xorg-video-intel-dbg",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "DevClass": "gfxcard",
+    "Nvidia Settings": {},
+    "Vendor": "pci 0x10de",
+    "Device": "pci 0x13d8",
+    "SubVendor": "pci 0x",
+    "SubDevice": "pci 0x",
+    "Revision": "0xff",
+    "Driver": "nvidia",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/updates/dkms/nvidia-current.ko",
+    "sha256sum": "acc59c1ebf757ff46364b0210f662fa0909cf1006174c37ca997a786ded32e6c",
+    "Driver Version": "352.79",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "Unknown package",
+    "Score": "24"
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel
+xserver-xorg-video-intel-dbg",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "Vendor": "pci 0x8086",
+    "Device": "pci 0x0416",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0x06",
+    "Driver": "i915",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/kernel/drivers/gpu/drm/i915/i915.ko",
+    "sha256sum": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Driver Version": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "linux-image-4.4.0-1-amd64",
+    "DevClass": "Optimus",
+    "Bumblebee Version": "",
+    "Render Device": {
+    "Nvidia Settings": {},
+    "Vendor": "pci 0x10de",
+    "Device": "pci 0x13d8",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0xa1",
+    "Driver": "nvidia",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/updates/dkms/nvidia-current.ko",
+    "sha256sum": "acc59c1ebf757ff46364b0210f662fa0909cf1006174c37ca997a786ded32e6c",
+    "Driver Version": "352.79",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "Unknown package",
+    "DevClass": "Optimus"
+                       },
+    "Score": "100"
+ {
+    "OS Distributor": "Debian",
+    "OS Release": "unstable",
+    "OS CodeName": "sid",
+    "Kernel Release": "4.4.0-1-amd64",
+    "Kernel Version": "4.4.4-2",
+    "Architecture": "x86_64",
+    "Kernel cmdline": ["ro", "quiet", "acpi_enforce_resources=lax"],
+    "Manufacturer": "Hasee Computer",
+    "Product Name": "CP65S",
+    "Xorg Version": "1.18.1-1",
+    "XFS Driver File": "/lib/modules/4.4.0-1-amd64/kernel/fs/xfs/xfs.ko",
+    "XFS Driver Version": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "XFS sha256sum": "c89c40a0c9f22d6af02e450e35eda51612b7e5e343d7b459987ac2c141ae54f0",
+    "Xorg Video Driver": [
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+                           "Driver Package": "xserver-xorg-core",
+                           "Driver Version": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e",
+                           "sha256sum": "5d9f231a69250a31e6df37ad1bc18badf9087021c8a3e49ce2f494d5ce84663e"
+                          },
+                          {
+                           "Driver File": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+                           "Driver Package": "xserver-xorg-video-intel",
+                           "Driver Version": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b",
+                           "sha256sum": "e15e77d673b9ce4b87771a91c503457d93d71affdafcc9d4b240e37da6d3f94b"
+                          }
+                         ],
+    "Vendor": "pci 0x8086",
+    "Device": "pci 0x0416",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0x06",
+    "Driver": "i915",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/kernel/drivers/gpu/drm/i915/i915.ko",
+    "sha256sum": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Driver Version": "40d7e0ee90532c8c970d1a4dbf0c6dff9d27a0bb896a62e2e3dea6515d81ea6e",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "linux-image-4.4.0-1-amd64",
+    "DevClass": "Optimus",
+    "Bumblebee Version": "",
+    "Render Device": {
+    "Nvidia Settings": {
+                          "Screen Attributes": [ ],
+                          "GPU Attributes": [  {"name": "GPUPerfModes",  "value": [ {"perf":"0", "nvclock":"135", "nvclockmin":"135", "nvclockmax":"405", "nvclockeditable":"0","memclock":"324", "memclockmin":"324", "memclockmax":"324", "memclockeditable":"0","memTransferRate":"648", "memTransferRatemin":"648", "memTransferRatemax":"648","memTransferRateeditable":"0"}, {"perf":"1", "nvclock":"135", "nvclockmin":"135", "nvclockmax":"1038","nvclockeditable":"0", "memclock":"810", "memclockmin":"810", "memclockmax":"810", "memclockeditable":"0","memTransferRate":"1620", "memTransferRatemin":"1620", "memTransferRatemax":"1620","memTransferRateeditable":"0"}, {"perf":"2", "nvclock":"135", "nvclockmin":"135", "nvclockmax":"1038","nvclockeditable":"0", "memclock":"1600", "memclockmin":"1600", "memclockmax":"1600","memclockeditable":"0", "memTransferRate":"3200", "memTransferRatemin":"3200","memTransferRatemax":"3200", "memTransferRateeditable":"0"}, {"perf":"3", "nvclock":"135","nvclockmin":"135", "nvclockmax":"1038", "nvclockeditable":"0", "memclock":"2505", "memclockmin":"2505","memclockmax":"2505", "memclockeditable":"0", "memTransferRate":"5010", "memTransferRatemin":"5010","memTransferRatemax":"5010", "memTransferRateeditable":"0"} ]}]
+   },
+    "Vendor": "pci 0x10de",
+    "Device": "pci 0x13d8",
+    "SubVendor": "pci 0x1558",
+    "SubDevice": "pci 0x6555",
+    "Revision": "0xa1",
+    "Driver": "nvidia",
+    "Driver File": "/lib/modules/4.4.0-1-amd64/updates/dkms/nvidia-current.ko",
+    "sha256sum": "acc59c1ebf757ff46364b0210f662fa0909cf1006174c37ca997a786ded32e6c",
+    "Driver Version": "352.79",
+    "Module Parameters": [],
+    "Environment": [],
+    "Package": "Unknown package",
+    "DevClass": "Optimus"
+                       },
+    "Score": "88"

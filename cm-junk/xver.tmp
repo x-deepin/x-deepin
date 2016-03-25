@@ -1,0 +1,12 @@
+
+X.Org X Server 1.18.2
+Release Date: 2016-03-11
+X Protocol Version 11, Revision 0
+Build Operating System: Linux 3.16.0-4-amd64 x86_64 Debian
+Current Operating System: Linux huaxia-laptop 4.4.0-2-deepin-amd64 #1 SMP Deepin 4.4.6-1 (2016-03-18) x86_64
+Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-2-deepin-amd64 root=UUID=41be4d0c-ee4a-4c56-8139-243450ab8cbb ro acpi.debug_layer=0x2 acpi.debug_level=0xfffffff debug no_console_suspend loglevel=999 printk.always_kmsg_dump=1 hardlockup_all_cpu_backtrace=1
+Build Date: 12 March 2016  07:32:38AM
+xorg-server 2:1.18.2-1 (http://www.debian.org/support) 
+Current version of pixman: 0.33.6
+	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.

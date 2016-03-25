@@ -1,0 +1,135 @@
+Attributes queryable via debian:8.0:
+  OperatingSystem: 0
+  NvidiaDriverVersion: 352.79
+  NvControlVersion: 1.29
+  GLXServerVersion: 1.4
+  GLXClientVersion: 1.4
+  OpenGLVersion: 4.5.0 NVIDIA 352.79
+  XRandRVersion: 1.5
+  XF86VidModeVersion: 2.2
+  XvVersion: 2.2
+  TwinView: 0
+  ConnectedDisplays: 0x00000000
+  EnabledDisplays: 0x00000000
+  AssociatedDisplays: 0x00000000
+  InitialPixmapPlacement: 2
+  MultiGpuDisplayOwner: 0
+  GlyphCache: 1
+  Depth30Allowed: 1
+  NoScanout: 1
+  XServerUniqueId: -862053931
+  PixmapCache: 1
+  PixmapCacheRoundSizeKB: 1024
+  AccelerateTrapezoids: 1
+  ScreenPosition: x=0, y=0, width=640, height=480
+  LogAniso: 0
+  FSAA: 0
+  TextureSharpen: 0
+  TextureClamping: 1
+  FXAA: 0
+  FSAAAppControlled: 1
+  LogAnisoAppControlled: 1
+  OpenGLImageSettings: 1
+  FSAAAppEnhanced: 0
+  SliMosaicModeAvailable: 0
+  BusType: 2
+  PCIEMaxLinkSpeed: 8000
+  PCIEMaxLinkWidth: 16
+  PCIECurrentLinkSpeed: 8000
+  PCIECurrentLinkWidth: 16
+  VideoRam: 3145728
+  Irq: 35
+  CUDACores: 1280
+  GPUMemoryInterface: 192
+  GPUCoreTemp: 32
+  GPUCurrentClockFreqs: 1037,2505
+  BusRate: 16
+  PCIEGen: 3
+  GPUErrors: 0
+  GPUPowerSource: 0
+  GPUCurrentPerfLevel: 3
+  GPUAdaptiveClockState: 1
+  ECCConfigurationSupported: 0
+  GPUCurrentClockFreqsString: nvclock=1037, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=2505, memclockmin=2505, memclockmax=2505,
+  memclockeditable=0, memTransferRate=5010, memTransferRatemin=5010,
+  memTransferRatemax=5010, memTransferRateeditable=0
+  GPUPerfModes: perf=0, nvclock=135, nvclockmin=135, nvclockmax=405, nvclockeditable=0,
+  memclock=324, memclockmin=324, memclockmax=324, memclockeditable=0,
+  memTransferRate=648, memTransferRatemin=648, memTransferRatemax=648,
+  memTransferRateeditable=0 ; perf=1, nvclock=135, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=810, memclockmin=810, memclockmax=810, memclockeditable=0,
+  memTransferRate=1620, memTransferRatemin=1620, memTransferRatemax=1620,
+  memTransferRateeditable=0 ; perf=2, nvclock=135, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=1600, memclockmin=1600, memclockmax=1600,
+  memclockeditable=0, memTransferRate=3200, memTransferRatemin=3200,
+  memTransferRatemax=3200, memTransferRateeditable=0 ; perf=3, nvclock=135,
+  nvclockmin=135, nvclockmax=1038, nvclockeditable=0, memclock=2505, memclockmin=2505,
+  memclockmax=2505, memclockeditable=0, memTransferRate=5010, memTransferRatemin=5010,
+  memTransferRatemax=5010, memTransferRateeditable=0
+  GvoSupported: 0
+  CurrentMetaModeID: 50
+  CurrentMetaMode: id=50, switchable=yes, source=xconfig :: NULL
+  XineramaInfoOrder: CRT, DFP, TV
+  XVideoSyncToDisplayID: 0
+Attributes queryable via debian:8[gpu:0]:
+  OperatingSystem: 0
+  NvidiaDriverVersion: 352.79
+  ConnectedDisplays: 0x00000000
+  EnabledDisplays: 0x00000000
+  Depth30Allowed: 1
+  NoScanout: 1
+  SliMosaicModeAvailable: 0
+  BusType: 2
+  PCIEMaxLinkSpeed: 8000
+  PCIEMaxLinkWidth: 16
+  PCIECurrentLinkSpeed: 8000
+  PCIECurrentLinkWidth: 16
+  VideoRam: 3145728
+  TotalDedicatedGPUMemory: 3071
+  UsedDedicatedGPUMemory: 20
+  Irq: 35
+  CUDACores: 1280
+  GPUMemoryInterface: 192
+  GPUCoreTemp: 32
+  GPUCurrentClockFreqs: 1037,2505
+  BusRate: 16
+  PCIDomain: 0
+  PCIBus: 1
+  PCIDevice: 0
+  PCIFunc: 0
+  PCIID: 4318,5080
+  PCIEGen: 3
+  GPUPowerSource: 0
+  GPUCurrentPerfLevel: 3
+  GPUAdaptiveClockState: 1
+  GPUPowerMizerMode: 2
+  GPUPowerMizerDefaultMode: 0
+  ECCSupported: 0
+  ECCConfigurationSupported: 0
+  BaseMosaic: 0
+  MultiGpuMasterPossible: 0
+  VideoEncoderUtilization: 0
+  GPUCurrentClockFreqsString: nvclock=1037, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=2505, memclockmin=2505, memclockmax=2505,
+  memclockeditable=0, memTransferRate=5010, memTransferRatemin=5010,
+  memTransferRatemax=5010, memTransferRateeditable=0
+  GPUPerfModes: perf=0, nvclock=135, nvclockmin=135, nvclockmax=405, nvclockeditable=0,
+  memclock=324, memclockmin=324, memclockmax=324, memclockeditable=0,
+  memTransferRate=648, memTransferRatemin=648, memTransferRatemax=648,
+  memTransferRateeditable=0 ; perf=1, nvclock=135, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=810, memclockmin=810, memclockmax=810, memclockeditable=0,
+  memTransferRate=1620, memTransferRatemin=1620, memTransferRatemax=1620,
+  memTransferRateeditable=0 ; perf=2, nvclock=135, nvclockmin=135, nvclockmax=1038,
+  nvclockeditable=0, memclock=1600, memclockmin=1600, memclockmax=1600,
+  memclockeditable=0, memTransferRate=3200, memTransferRatemin=3200,
+  memTransferRatemax=3200, memTransferRateeditable=0 ; perf=3, nvclock=135,
+  nvclockmin=135, nvclockmax=1038, nvclockeditable=0, memclock=2505, memclockmin=2505,
+  memclockmax=2505, memclockeditable=0, memTransferRate=5010, memTransferRatemin=5010,
+  memTransferRatemax=5010, memTransferRateeditable=0
+  GpuUUID: GPU-2d9392b1-09b0-4200-a64e-b45b6c6b1ba8
+  GPUUtilization: graphics=0, memory=0, video=0, PCIe=0
+Attributes queryable via debian:8[thermalsensor:0]:
+  ThermalSensorReading: 32
+  ThermalSensorProvider: 1
+  ThermalSensorTarget: 1

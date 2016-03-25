@@ -1,0 +1,5 @@
+./query.py --devclass gfxcard --device 'pci 0x9553' --vendor 'pci 0x1002' --subvendor 'pci 0x1043' --subdevice 'pci 0x1b42' --krelease 4.3.0-3-deepin-amd64 --kversion 4.3.3-7 --arch x86_64 --manufacturer 'ASUSTeK Computer INC.' --product 'K40AB' --distributor Debian --osrelease unstable --oscodename sid --Xversion "1.18.1-1"
+
+./query.py --devclass netcard --device 'pci 0x816b' --vendor 'pci 0x10ec' --subvendor 'pci 0x1043' --subdevice 'pci 0x16d5' --revision 0x03 --krelease 4.3.0-3-deepin-amd64 --kversion 4.3.3-7 --arch x86_64 --manufacturer 'ASUSTeK Computer INC.' --product 'K40AB' --distributor Debian --osrelease unstable --oscodename sid
+
+./query.py --devclass Optimus --device 'pci 0x0416' --vendor 'pci 0x8086' --subvendor 'pci 0x1558' --subdevice 'pci 0x6555' --krelease 4.4.0-1-amd64 --kversion 4.4.4-2 --arch x86_64 --manufacturer 'Hasee Computer' --product 'CP65S' --distributor Debian --osrelease unstable --oscodename sid --Xversion "1.18.1-1" --revision='0x06' --rvendor='pci 0x10de' --rdevice='pci 0x13d8' --rsubvendor='pci 0x1558' --rsubdevice='pci 0x6555' --rrevision='0xa1'
